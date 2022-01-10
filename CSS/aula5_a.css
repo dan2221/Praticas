@@ -1,0 +1,23 @@
+/* CSS Document */
+
+#Menu ul li {display: inline;}
+
+#Menu ul li a{
+	float: left;
+	width: 82px;
+	height: 78px;
+	display: block;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	background: url('fundo_tecido2.gif') no-repeat scroll 0 0 transparent;
+}
+
+#Menu ul li.home a{background-position: 0px 0px;}
+#Menu ul li.agenda a{background-position: -91px 0px;}
+#Menu ul li.contato a{background-position: -181px 0px;}
+
+#Menu ul li.home a:hover{background-position: 0px -78px;}
+#Menu ul li.agenda a:hover{background-position: -91px -78px;}
+#Menu ul li.contato a:hover{background-position: -181px -78px;}

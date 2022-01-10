@@ -1,0 +1,8 @@
+"A0.txt"
+"B0.txt"
+"C0.txt"
+"D0.txt"
+"E0.txt"
+"EN.txt"
+"F0.txt"
+"G0.txt"

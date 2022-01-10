@@ -1,0 +1,92 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+	body {
+		font-family:Verdana, Geneva, Arial, "sans-serif";
+		font-style:oblique;
+		font-size:18px;
+		text-indent:50px;
+	}
+	a:link {color:#F00;}
+	a:visited {color:#0F0;}
+	a:hover {color:#F0F;}
+	a:active {color:#00F;}
+
+	ul.a {
+		/* Usando IMAGEM como marcador */
+		list-style-image: url('seta_roxa.gif');
+
+		/* Resolvendo problema de alinhamento no arquivo anterior */
+		list-style-position: inside
+		/* O valor padrao eh outside */
+	}
+	ul.b {
+		list-style-image: url('seta_azul.gif');
+		list-style-position: inside
+	
+/* --------- TABELAS -------------------------- 
+* {color}{width}{height}  {padding}
+
+*/
+	table {border:1px solid black width:100%;}
+	/*	-collapse adiciona bordas duplicadas */
+	
+	th{height:30px;}
+	td{padding:10px;}
+	}
+</style>
+</head>
+
+<body>
+<p>Texto</p>
+<p>Texto</p>
+<p>Texto</p>
+<p>Todos os trechos deste body têm recuo (parágrafo) de 50 pixels.</p>
+<p><a href="https://www.google.com">Link</a></p>
+<h1>The list-style-type Property</h1>
+
+<p>Example of unordered lists:</p>
+
+<ul class="a">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ul>
+
+<ul class="a">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ul>
+
+<p>Example of ordered lists:</p>
+
+<ul class="b">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ul>
+
+<ul class="b">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ul>
+
+<table border="3" bordercolor="#8000ff" bgcolor="#c0b4d8">
+	<tr> <!-- criar linha -->
+		<td><b> Nome </b></td> <!-- célula-->
+		<td><b> Sobrenome </b></td> <!-- célula-->
+	</tr><tr>
+		<td> Anna </td>
+		<td> Santos </td>
+	</tr><tr>
+		<td> Vanessa </td>
+		<td> Medeiros </td>
+	</tr>
+</table>
+
+</body>
+</html>

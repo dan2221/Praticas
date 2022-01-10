@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<head>
+<!-- Abrindo vários htmls de uma vez -->
+	<title>Aula 3 - Frames</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+	<meta charset="utf-8"/>
+</head> <!--	A	B	C	-->
+<frameset rows="50%,35%,*"> <!-- Porcentagem para cada frame, o asterisco significa o resto
+ FRAMESET {rows}{cols}-->
+	<frame src="frame_a.html" name="F1" marginwidth="20" marginheight="20">
+	<frame src="frame_b.html" name="F2" scrolling>
+	<frame src="frame_c.html" name="F3" noresize>
+<!-- FRAME {src}{marginwidth}{marginheight}{scrolling}{noresize}
+SRC: URL a ser carregada.
+MARGINWIDTH: largura das margens (em pixels).
+MARGINHEIGHT: altura das margens (em pixels).
+SCROLLING: adiciona uma barra de rolagem ao frame.
+NORESIZE: impede que o usuário redimensione um frame.
+-->
+</frameset>

@@ -1,0 +1,52 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>Questão 2</title>
+	<meta charset="utf-8">
+	<style type="text/css">
+		h2{text-align:center;}
+		body{font-family:Arial;}
+		table{
+			width:500px;
+			vertical-align:center;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		td{
+			padding:2px;
+		}
+	</style>
+</head>
+
+<body>
+<h2>Ficha Cadastral</h2>
+
+<FORM NAME = "Form1" METHOD="post" ACTION="envia.php">
+<table>
+	<tr>
+		<td>Nome:</td>
+		<td colspan="3"><INPUT TYPE=text NAME="nome" style="width: 98%;"></td>
+	</tr>
+	<tr>
+		<td>RG:</td>
+		<td><INPUT TYPE=text NAME="rg"></td>
+		<td width="20%">C.P.F.:</td>
+		<td><INPUT TYPE=text NAME="cpf"></td>
+	</tr>
+	<tr>
+		<td>Endereço:</td>
+		<td colspan="3"><INPUT TYPE=text NAME="endereco" style="width: 98%;"></td>
+	</tr>
+	<tr>
+		<td>Sexo:</td>
+		<td><select name="sexo">
+  			<option value="valor1" selected>Masculino</option> 
+ 			<option value="valor2">Feminino</option>
+ 		</select></td>
+ 		<td style="width: 45%;"><span>Data de Nascimento:</span></td>
+ 		<td><INPUT TYPE=text NAME="data"></td>
+ 	</tr>
+</table>
+</FORM>
+</body>
+</html>

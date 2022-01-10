@@ -1,0 +1,7 @@
+Operadores lógicos ou Booleanos
+
+&& -> Conjunção (E)
+
+|| -> Disjunção (OU)
+
+!  -> Negação (NÃO)

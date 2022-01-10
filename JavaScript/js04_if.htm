@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>js03_Soma.htm</title>
+<meta charset="utf-8"/> 
+</head>
+
+<body>
+<h3>Somatória de dois números inteiros</h3>
+
+<!-- Anotação sobre JavaScript:
+   * parseInt( )    – faz a conversão de valores inteiros
+   * parseFloat( )  – faz a conversão de valores reais (flutuantes/fracionários).
+
+   Caso o algorítimo não tenha nenhum dos dois haverá concatenação.
+-->
+
+<script language="javascript">
+<!--
+/* 	Objetivo: Desenvolver um programa de soma em JavaScript
+
+ Definição das Variáveis */
+    var js_n1;
+    var js_n2;
+    var js_soma;
+
+// Entrada de dados
+// ParseInt pode ser colocado aqui tambem
+js_n1 = parseInt(window.prompt ('Informe o primeiro número: ', '00'));
+js_n2 = parseInt(window.prompt ('Informe o primeiro número: ', '00'));
+
+document.write('Primeiro número = ', + js_n1,'<br>');
+document.write('Segundo número = ', + js_n2,'<br>');
+
+// Processamento de dados
+if (js_n1 === js_n2) {
+    document.write ('Os dois números são iguais!<br>');
+} else {
+    if (js_n1 < js_n2) {
+        document.write ('O segundo número é maior!<br>');
+    } else {
+        document.write ('O primeiro número é maior!<br>');
+    }
+}
+
+if (js_n1 === js_n2) {
+    document.write ('Ordem numérica: ', js_n1,', ', js_n2);
+} else {
+    if (js_n1 < js_n2) {
+        document.write ('Ordem numérica: ', js_n1,', ', js_n2);
+    } else {
+        document.write ('Ordem numérica: ', js_n2,', ', js_n1);
+    }
+}
+//-->
+</script>
+</body>
+</html>

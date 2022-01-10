@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>js03_Soma.htm</title>
+<meta charset="utf-8"/> 
+</head>
+
+<body>
+<h3>Somatória de dois números inteiros</h3>
+
+<!-- Anotação sobre JavaScript:
+   * parseInt( )    – faz a conversão de valores inteiros
+   * parseFloat( )  – faz a conversão de valores reais (flutuantes/fracionários).
+
+   Caso o algorítimo não tenha nenhum dos dois haverá concatenação.
+-->
+
+<script language="javascript">
+<!--
+/* 	Objetivo: Desenvolver um programa de soma em JavaScript
+
+ Definição das Variáveis */
+    var js_salario;
+
+// Entrada de dados
+// ParseInt pode ser colocado aqui tambem
+js_salario = parseInt(window.prompt ('Digite um salário: ', 'Digite aqui!'));
+
+document.write('Salário digitado: ', + js_salario,'<br><br>');
+
+// Processamento de dados
+if (js_salario > 10500) {
+    document.write ('<b>Salário Elevado!</b><br>Maior que 10.500');
+} else {
+    if (js_salario > 6000) {
+        document.write ('<b>Salário Satisfatório!</b><br>Maior que 6000');
+    } else {
+        if (js_salario > 3000) {
+            document.write ('<b>Salário Moderado!</b><br>Maior que 3000');
+        } else {
+            document.write ('<b>Salário Insatisfatório!</b><br>Menor ou igual a 3000');
+        }
+    }
+}
+
+//-->
+</script>
+</body>
+</html>

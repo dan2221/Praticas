@@ -1,0 +1,7 @@
+codigo espaço
+
+&nbsp;	1
+&ensp;	2
+&emsp;	4
+
+&#160;	?

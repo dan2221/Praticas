@@ -1,0 +1,16 @@
+/* CSS Document */
+
+h1,h3{text-align:center;}
+
+body{font-family: Arial;}
+
+p{
+	text-align:justify;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.cLinks{
+	display: block;
+	text-align: center;
+}

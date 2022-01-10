@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<head>
+	<title>Aula 9 - Imagens mapeadas</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta charset="utf-8"/>
+</head>
+
+<body>
+	<p><font color="#8000ff">Abrir links por áreas de uma imagem única</p></font>
+	<hr>
+	<p><b>Retângulo</b></p>
+	<pre><p>        <img src="aula9\quadrado.png" usemap="#quadrado" border="0"></pre><map name="quadrado">
+	<area shape="rect" coords="1,1,94,50"	href="https://cos.tv" alt="item 1">
+	<area shape="rect" coords="96,1,189,50"	href="https://www.facebook.com" alt="item 1">
+	<area shape="rect" coords="1,52,94,101"	href="https://www.youtube.com" alt="item 1">
+	<area shape="rect" coords="96,52,189,101" href="https://sorr.forumotion.net" alt="item 1">
+	</map>
+	</p>
+	<hr>
+	<p><b>Círculo</b></p>
+	<pre><p>		<img src="aula9\bola.png" usemap="#circulo" border="0"></p></pre><map name="circulo">
+	<area shape="circle" coords="43,40,43"	href="aula9\bola.png" alt="item 1"></map>
+	<hr>
+	<p><b>Polígono</b></p>
+	<!-- o valor "polygon" também é válido! -->
+	<pre><p> <img src="aula9\poligono.jpg" usemap="#poligono" border="0"></p></pre><map name="poligono">
+	<area shape="poly" coords="92,5,306,5,390,86,199,315,8,86"	href="aula9\poligono.jpg" alt="item 1"></map>
+	<hr>
+</body>
+
+</html>

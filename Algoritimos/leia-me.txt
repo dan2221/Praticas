@@ -1,0 +1,3 @@
+Exercícios da FATEC
+
+As pastas contém arquivos .algobuild que podem ser abertos com o programa de mesmo nome.

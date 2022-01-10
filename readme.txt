@@ -1,0 +1,1 @@
+Este repositório contém várias práticas, testes e exercícios que fiz em várias linguagens.

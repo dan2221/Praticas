@@ -1,0 +1,201 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>Página inicial</title>
+<meta charset="utf-8">
+<!-- Margin e Padding
+
+Unidades de Medida:
+	* px - pixel
+	* pt - ponto
+	* em - equivalente a, aproximadamente, 16px
+	* %	 - porcentagem
+	* cm - centímetro
+	* mm - milímetro
+-->
+<style type="text/css">
+/* Asterisco é o seletor universal, representa tudo no html. */
+	*{font-family:Verdana;}
+
+	body {
+		margin: 0px;
+		padding: 0px;
+		font-size:medium;
+		text-align:justify;
+	}
+	a:link {color:#F00;}
+	a:visited {color:#0F0;}
+	a:hover {color:#F0F;}
+	a:active {color:#00F;}
+
+	header{
+		width: 100%;
+		height: 176px;
+		background-color:#325843;
+		position: relative;
+		top:0;
+	}
+
+/* CLASS */
+.container-principal {
+	font-family: 'verdana';
+	color:#7074e0;
+}			  /* Propriedade AUTO*/
+.logo{
+	position: fixed; 
+	height: auto;
+}
+.logo img{
+	width:90%;
+	margin-left: 10%;
+}
+
+/* Imagem principal */
+#banner{ width: 100%;}
+#banner img{width: 100%; margin-bottom: 0;}
+
+/* definir as propriedades do menu */
+nav {position: absolute; right: 30px; bottom: 0px;}
+nav ul li {float: left; color: #fff; width:auto; margin:0.8em; font-size:1.5em; font-family:verdana; list-style:none;}
+nav ul li a {text-decoration: none;color:#bbb;}
+/* Hover significa a cor do elemento quando passamos o mouse sobre ele. */
+nav ul li a:hover{color:blue;}
+
+.modalDialog {
+	position: fixed;
+	font-family: Verdana;
+	top:0;
+	right:0;
+	bottom:0;
+	left:0;
+	background: rgba(181,9,9,0.8);
+	z-index:9999;
+	opacity:0;
+	/* motor de renderizacao */
+	-webkit-transition: opacity 400ms ease-in;
+	-moz-transition: opacity 400ms ease-in;
+	transition: opacity 400ms ease-in;
+	pointer-events: none;
+	display:none;
+}
+
+.modalDialog img {
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+</style>
+<!-- Valores de transition
+    Linear
+    Ease
+    Ease-in
+    Ease-out
+    Ease-in-out.
+-->
+</head>
+
+<body bgcolor="#444" text="#DDD">
+<header>
+	<div class="logo">
+		<a href="index.html">
+			<img align="center" src="logo.png" alt="logo site">
+		</a>
+	</div>
+	<div class="container-principal">
+		<br><br>
+<!-- 
+Tag NAV: concentra os links que formam a navegação do site. -->
+	<nav>
+		<ul>
+			<li><a href="index.html">home</a></li>
+			<li><a href="clientes.html">clientes</a></li>
+			<li><a href="sobre.html">sobre</a></li>
+			<li><a href="contato.html">contato</a></li>
+		</ul>
+	</nav>
+</header>
+</div>
+<!-- O nome DIV vem da palavra divisão. Nesse sentido, a função da div é dividir trechos de códigos HTML. Dessa forma, podemos incluir outros elementos dentro da tag div e formatar o bloco de elementos individualmente. Por exemplo: imagens, links, textos, listas. -->
+<div id='divtexto' class='configtexto'>
+	<h1> O título </h1>
+	<p> Aqui vai o texto </p>
+	<img src="css_icon.gif" alt="Símbolo do CSS">
+</div>
+
+<!-- Tag SECTION -->
+<section id="banner">
+	<img src="pintura.jpg" alt="banner-topo">
+</section>
+
+<!-- Pop-ups -->
+<div id=”openmodal” class="modalDialog">
+	<div>
+		<a href="#close" class="close">X</a>
+		<h1>Aprenda pintura em tecido</h1>
+		<p>Várias playlists separadas com aulas abordando diversos conceitos, torne-se um artista!</p>
+	</div>
+</div>
+
+<div id=”openmodal1” class="modalDialog">
+	<div>
+		<a href="#close" title="Close" class="close">X</a>
+		<h1>Perca peso rapidamente</h1>
+		<p>Produto milagroso reuz todas as banhas, pneuzinhos, etc. Clique e confira!</p>
+	</div>
+</div>
+
+<div id=”openmodal2” class="modalDialog">
+	<div>
+		<a href="#close" title="Close" class="close">X</a>
+		<h1>Pendrive com 1000 músicas</h1>
+		<p>Muito barato, clique e confira!</p>
+	</div>
+</div>
+
+<hr>
+texto
+<hr>
+texto
+<hr>
+texto
+<hr>
+texto
+<hr>
+texto
+<hr>
+texto
+<hr>
+texto
+<hr>
+texto
+<hr>
+texto
+<hr>
+texto
+<hr>
+texto
+<hr>
+texto
+<hr>
+texto
+<hr>
+texto
+<hr>
+texto
+<hr>
+texto
+<hr>
+texto
+<hr>
+texto
+<hr>
+texto
+<a href="index.html">
+	<img align="center" src="logo.png" alt="logo site">
+</a>
+<a href="index.html">
+			<img align="center" src="logo.png" alt="logo site">
+</a>
+
+
+</body>
+</html>

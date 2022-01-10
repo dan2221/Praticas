@@ -1,0 +1,82 @@
+<!DOCTYPE HTML>
+<head>
+	<title>Aula 2 - Formulário</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+	<meta charset="utf-8"/>
+</head>
+
+
+<body>
+	<form action="inovador111@gmail.com" METHOD="get">
+		<p>CPF: <input type="text"	name="cpf"	size="11"		maxlenght="11"></p>
+<!--				|		  	 |				  |				 |
+Valor que especifica o tipo	 	Nome da			Tamanho do		Número máximo de
+de entrada como texto.		 	variável que	campo em		caracteres que
+								armazena os		número de		podem ser inseridos
+								dados.			caracteres.		pelo usuário.
+-->
+		<p>Nome: <input 		type="text"		name="nome"	  size="30" maxlenght="50"></p>
+		<p>N° do cartão: <input type="password" name="cartao" size="30" maxlenght="50"></p>
+		<p>Bandeira:</p>
+		<pre>
+	 <INPUT TYPE="radio" id="visa" value="visa" NAME="cartao" CHECKED>VISA
+	 <INPUT TYPE="radio" id="master" value="master" NAME="cartao"><font size="4">MASTERCARD</font>
+</pre>
+</form>
+
+<!-- exemplo baixado do site Tryit -->
+<hr>
+<font size="5" face="arial black">Modelo pronto</font><br>
+<form action="/action_page.php">
+	<p>Please select your gender:</p>
+	<input type="radio" id="male" name="gender" value="male">
+	<label for="male">Male</label><br>
+	<input type="radio" id="female" name="gender" value="female">
+	<label for="female">Female</label><br>
+	<input type="radio" id="other" name="gender" value="other">
+	<label for="other">Other</label>
+</form>
+<hr>
+
+<font size="5" face="arial black">Modelo pronto - <b>múltipla escolha</b></font><br>
+<FORM ACTION="email@email.com" METHOD="get">
+	<FONT FACE="CALIBRI">
+	<P>Selecione horário de entrega:<BR>
+		<INPUT TYPE=checkbox NAME="horario1" SIZE="1">8h às 12h<BR>
+		<INPUT TYPE=checkbox NAME="horario2" SIZE="1">13h às 15h<BR>
+		<INPUT TYPE=checkbox NAME="horario2" SIZE="1">16h às 18h</P>
+	</font>    <!-- CHECKBOX -->
+</FORM>
+
+<form action="inovador111@gmail.com" METHOD="get">
+	<p>Escreva sua mensagem:<br> <TEXTAREA NAME="ref" ROWS="2" COLS= "40"></TEXTAREA></p>
+							 <!-- TEXTAREA:  ROWS {Linhas} COLS {Colunas} -->
+ <INPUT TYPE=submit VALUE="Enviar"><INPUT TYPE=reset VALUE="Limpar">
+</form>
+
+<p>Escolha a cidade que deseja conhecer:</p>
+<form>
+<!-- Select {Multiple}{Name}{Size}
+	 Option {Selected}{Value} -->
+	<Select name="cidades" Size="4">
+		<option>Londres <!-- O valor padrão de size é 1 -->
+		<option>Paris
+		<option>Roma
+		<option>Madri
+	</select>
+</form>
+<br><br>
+<form>
+<!-- Select {Multiple}{Name}{Size}
+	 Option {Selected}{Value} -->
+	<Select name="cidades">
+		<option>Londres <!-- O valor padrão de size é 1 -->
+		<option>Paris
+		<option>Roma
+		<option>Madri
+	</select>
+</form>
+
+</body>
+
+</html>

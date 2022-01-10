@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>js04_for.htm - incondicional for</title>
+<meta charset="utf-8"/> 
+</head>
+
+<body>
+
+<script language="javascript">
+<!--
+
+var js_num;
+
+document.write("<p>Apersentação dos valores acumulados para js_num=1 é menor ou igual a 10 incrementando a variável de +=2:");
+document.write('<p>Note que o limite irá até 9, pois 9+2=11, portanto será maior do que 10');
+
+/* Aplicação do laço incondicional - for 
+
+for ([inicialização]; [condição]; [expressão final]){
+   declaração
+}
+
+* INICIALIZAÇÃO
+	 Uma expressão (incluindo expressões de atribuição) ou declarações variáveis.
+ Geralmente usada para iniciar o contador de variáveis. Esta expressão pode, opcionalmente,
+ declarar novas variáveis com a palavra chave var. Essas variáveis não são locais no loop,
+ isto é, elas estão no mesmo escopo que o loop for está. Variáveis declaradas com let são
+ locais para a declaração.
+	O resultado desta expressão é descartado.
+
+* CONDIÇÃO
+	 Uma expressão para ser avaliada antes de cada iteração do loop. Se esta expressão
+ for avaliada para true, declaração será executado. Este teste da condição é opcional.
+ Se omitido, a condição sempre será avaliada como verdadeira. Se a expressão for
+ avaliada como falsa, a execução irá para a primeira expressão após a construção loop for.
+
+* EXPRESSÃO FINAL
+	 Uma expressão que será validada no final de cada iteração de loop. Isso ocorre antes da
+ próxima avaliação da condição. Geralmente usado para atualizar ou incrementar a variável
+ do contador.
+
+* DECLARAÇÃO
+	 Uma declaração que é executada enquanto a condição for verdadeira. Para executar
+múltiplas condições dentro do loop, use uma instrução de bloco ({...}) para agrupar essas
+condições. Para não executar declarações dentro do loop, use uma instrução vazia (;).
+
+*/
+for (js_num=1; js_num<=10; js_num+=2){
+	document.write('<p>' + js_num);
+}
+
+
+//-->
+</script>
+</body>
+</html>

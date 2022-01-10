@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Aula 2</title>
+<meta charset="utf-8"> 
+<script type="text/javascript" src="dio02.js"></script>
+<style type="text/css">
+	.caixa{
+		border:2px solid aqua;
+		padding: 7px;
+		font-size: larger;
+		font-family: 'Algerian Regular';"
+	}
+	body{
+		background: midnightBlue;
+		color: lightGray;
+	}
+</style>
+</head>
+
+
+<body onload="carregar()">
+<p style="font-size:larger;"><b>Exemplo de Botão com <i>JavaScript</i>:</b></p>
+<button type="button" onclick="botao()">Clique em mim!</button>
+<p>Você clicou no botão <b id="contagem" style="color:lightgreen;"></b> <b>vezes</b></p>
+<p><button type="button" onclick="abrirLink(false)">Abra um link em nova aba!</button></p>
+<p><button type="button" onclick="abrirLink(true)">Abra uma link na aba atual!</button></p>
+<br>
+<!-- O atributo THIS serve pra se referir ao próprio elemento da tag. -->
+<p><b onmouseover="trocarTexto(this)" onmouseout="voltarTexto(this)" class='caixa'>Passe o mouse aqui !</b></p>
+<br>
+<p><select onchange="funcaoChange()" id="ddlViewBy">
+	<option selected value="0">Escolha</option>
+	<option value="1">Gato</option>
+	<option value="2">Cachorro</option>
+	<option value="3">Pássaro</option>
+</select></p>
+<p>Descrição do animal: <b id="textAnimal" style="color:pink;"></b></p>
+</body>
+</html>

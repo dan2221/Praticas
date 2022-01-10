@@ -1,0 +1,139 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<style type="text/css">
+		/* Propriedades das CLASSES */
+		a.virtual:link{color:Red;}
+		a.estrategia:link{color:#0F0;}
+		a{color:blue;} /* Demais links */
+		body {
+			background-color:#2e2b73;
+			color:white;
+			font-size:large;
+			font-family:Calibri, Verdana;
+
+			/* Box Model 
+			 Codigo Margin */
+			margin-top: 100px;
+			margin-right: 40px;
+			margin-bottom: 10px;
+			margin-left: 70px;
+			/* Tambem pode ser escrito assim: 
+			margin: 100px 40px 10px 70px;	*/
+		}
+
+		/* Box Model */
+		div.box {
+			width: 200px;
+			height: 500px;
+			border: 1px solid black;
+			background: orange;
+		}
+
+		h1 {
+			/* Box Model */
+			padding:10px 10px 10px 30px;
+			clear: both; /* both, left, right ou none. */
+			background-color:#720372;
+		}
+
+		p {
+			/* Box Model */
+			padding-left:50px;
+			background-color:#037500;
+			text-align:right;
+		}
+
+		/* Propriedades dos IDs */
+		#c1-2 {color:#dfdf00;}
+		#c2-2 {color:#ec00b1;}
+
+		/* Propriedades dos Divs */
+		#insetos {
+			background:pink;
+			color:black;
+		}
+		#repteis {
+			background:lightblue;
+			color:black;
+		}
+
+		span.alimento {color:yellow;}
+
+		#imagem {
+			float: left;
+			/* Float pode ser right, left ou none */
+			width: 200px;
+		}
+	</style>
+</head>
+
+<body>
+<p>Jogos virtuais</p>
+<ul> <!-- Agrupando as CLASSES --> <!-- Pesquisar diferença entre class e id -->
+	<li><a class="virtual" href="pacman.html">Pacman</a></li>
+	<li><a class="virtual" href="tetris.html">Tetris</a></li>
+	<li><a class="virtual" href="snake.html">Snake</a></li>
+</ul>
+
+<p>Jogos de estratégia</p>
+<ul>
+	<li><a class="estrategia" href="xadrez.html">Xadrez</a></li>
+	<li><a class="estrategia" href="domino.html">Dominó</a></li>
+	<li><a class="estrategia" href="damas.html">Damas</a></li>
+</ul>
+
+<!-- Agrupando os ID's -->
+<h1 id="c1">Capítulo 1</h1>
+<p>Texto do capítulo 1</p>
+...
+<h2 id="c1-1">Capítulo 1.1</h2>
+<p>Texto do capítulo 1.1</p>
+...
+<h2 id="c1-2">Capítulo 1.2</h2>
+<p>Texto do capítulo 1.2</p>
+...
+<h1 id="c2">Capítulo 2</h1>
+<p>Texto do capítulo 2</p>
+...
+<h2 id="c2-1">Capítulo 2.1</h2>
+<p>Texto do capítulo 2.1</p>
+...
+<h2 id="c2-2">Capítulo 2.2</h2>
+<p>Texto do capítulo 2.2</p>
+...
+
+<p> Exemplo do comando <b>Div</b>:</p>
+
+<div id="insetos">
+	<ul>
+	<li>abelha</li>
+	<li>formiga</li>
+	<li>borboleta</li>
+	<li>mosquito</li>
+	</ul>
+</div>
+
+<div id="repteis">
+	<ul>
+	<li>cobra</li>
+	<li>jacaré</li>
+	<li>lagarto</li>
+	<li>tartaruga</li>
+	</ul>
+</div>
+
+<p> Exemplo do comando <b>Span</b>:</p>
+
+<p>A mãe e a menina foram ao mercado comprar <b><span class="alimento">farinha</span></b> para fazer o <b><span class="alimento">bolo</span></b>.
+
+<!-- Box Model -->
+<div id="imagem">
+	<img src="victy.png" alt="imagem">
+</div>
+
+<p>Este texto se refere à imagem inserida.</p>
+</body>
+
+</html>

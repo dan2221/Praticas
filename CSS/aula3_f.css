@@ -1,0 +1,40 @@
+/* CSS Document */
+
+body {
+	color:blue;
+	background-color:#b4cbde;
+}
+
+h1 {
+	color:#257c23;
+	text-align:left;
+	text-decoration:overline;
+	/* Linha acima do texto */
+}
+
+h2 {
+	color:rgb(250,1,1);
+	text-align:center;
+	text-decoration:line-through;
+	/* Taxado/riscado */
+}
+
+h3 {
+	color:#ff5604;
+	text-align:right;
+	text-decoration:underline;
+	/* Sublinhado */
+}
+
+h4 {
+	color:#ec00b1;
+	text-decoration:blink;
+	/* Faz o texto piscar (nao funciona em todos os browsers) */
+}
+
+a {
+	color:#05a59d;
+	text-align:justify;
+	text-decoration:none;
+	/* Remove o sublinhado */
+}

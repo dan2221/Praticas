@@ -1,0 +1,81 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+	body {
+		font-family:Verdana, Geneva, Arial, "sans-serif";
+	/* A fonte escolhida eh Verdana, se ela nao estiver disponivel no pc, sera escolhida Geneva e assim consecutivamente. */
+		font-style:oblique;
+	/* Font-Style {normal, italic, oblique (parece italico, porem menos inclinado)} */
+		font-size:18px;
+	/* Formas de usar o Font-Size:
+------- * Pixels: numero com o valor "px" na frente.
+
+------- * Porcentagem: percentual de tamanho que a fonte tera em relacao a fonte do ELEMENTO PAI. Exemplo:
+			body{font-size: 14px;}
+			h1{font-size: 130%;}
+
+			A fonte de H1 tera 130% do tamanho da fonte do body(14px) que se torna o ELEMENTO PAI.
+
+-------- * EM: calcula o tamanho da fonte a partir de um valor herdado (ELEMENTO PAI). Exemplo:
+			body {font-size: 14px;}
+			h1 {font-seize: 1.2em;}
+
+-------- * Palavras-chave:assim como as cores tem valores pre-definidos os tamanhos de fonte tambem tem, sao eles:
+			xx-small, x-small, small, medium, large, x-large, xx-large.
+	*/
+	}
+	a:link {color:#F00;}	/* Links nao visitados */
+	a:visited {color:#0F0;} /* Links ja visitados */
+	a:hover {color:#F0F;}	/* Ao passar o mouse */
+	a:active {color:#00F;}	/* Links ativos */
+	/* Obs: os comandos de links devem ser declarados na ordem acima, caso contrário nao funcionarao! */
+
+	/* Listas Nao ordenadas (a,b) e Ordenadas (c,d)*/
+	ul.a {list-style-type: circle;}
+	ul.b {list-style-type: square;}
+	ol.c {list-style-type: upper-roman;}
+	ol.d {list-style-type: lower-alpha;}
+</style>
+</head>
+
+<!-- Usando CSS dentro do Body -->
+<body style="text-indent:50px;">
+<p>texto</p>
+<p>Texto</p>
+<p>texto</p>
+<p>Todos os trechos deste body têm recuo (parágrafo) de 50 pixels.</p>
+<p><a href="https://www.google.com">Link</a></p>
+<h1>The list-style-type Property</h1>
+
+<p>Example of unordered lists:</p>
+
+<ul class="a">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ul>
+
+<ul class="b">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ul>
+
+<p>Example of ordered lists:</p>
+
+<ol class="c">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ol>
+
+<ol class="d">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ol>
+
+</body>
+</html>

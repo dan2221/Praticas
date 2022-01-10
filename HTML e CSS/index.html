@@ -1,0 +1,133 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>Página inicial</title>
+<meta charset="utf-8">
+<!-- CSS linkado é quando o html acessa o CSS pelo arquivo externo (link rel="stylesheet" type"text/css" href="arquivo.css") -->
+<style type="text/css">
+/* CSS incorporado (dentro do head) */
+	body {
+		font-family:Verdana;
+		font-size:medium;
+		text-align:justify;
+	}
+	span.azul {
+		color:#60d8ef;
+	}
+/* Comandos de background no CSS (propriedade background)
+-color		Cord de fundo.
+-image		Imagem de fundo.
+-size		Tamanho da imagem.
+-position	Define a posicao da imagem em relacao a caixa.
+-attachment	Define se a imagem de fundo rolara com a tela.
+-repeat		Define se a imagem vai se repetir ou nao.
+*/
+
+ 	ul.a {/* -style-image: usar imagens como marcadores da lista.*/
+ 		list-style-image: url('seta_roxa.gif');
+
+/* -style-position {inside ou outside}: define a posicao do marcador da lista. */
+		list-style-position: outside;
+	}
+	ul.b {list-style-type: square;}
+	ol.c {list-style-type: upper-roman;}
+	ol.d {list-style-type: lower-alpha;}
+</style>
+</head>
+
+<!-- Fazendo alterações no body dentro da própria tag, dispensando uso de CSS -->
+<body bgcolor="#444" text="#DDD">
+
+
+<p>O nome <span class="azul">INDEX.html</span> não foi escolhido aleatoriamente. Na falta de um caminho informado pela página inicial de seu site, o servidor sempre irá procurar pela página index. Isso garante que o servidor abra a página inicial. A index é a página padrão dentro dos diretórios dos servidores.</p>
+
+<!-- CSS Inline (dentro do body)-->
+<p style="color:#7b6ae8; font-size:30px"><img src="css_icon.gif"> Utilizaçao do CSS Inline (dentro do body).</p>
+<p><em>Utilização da tag <span class="azul">EM</span></em>.</p>
+<p>Utilização da tag <span class="azul">SUB</span>: H<sub>2</sub>O.</p>
+<p>Utilização da tag <span class="azul">SUP</span>: X<sup>3</sup> (X ao cubo).</p>
+<p>Utilização da tag <span class="azul">STRONG</span>: <strong>Exemplo de texto</strong></p>
+<p><span class="azul">Lista de definição:</span></p>
+<!-- DT: nível/ define o termo.
+	 DD: subnível/ adiciona a definição. -->
+<dl>
+	<dt>A Fundação Bradesco</dt>
+	<dd>Fundação Bradesco, entidade filantrópica sem fins lucrativos</dd>
+</dl>
+
+<font size="4" color="#60d8ef">Formulários</font>
+<!-- Form {Action}{Method}
+
+ACTION: define o destino dos dados que foram coletados. De modo geral, o valor inserido nesse atributo é um URL.
+
+METHOD: tem a função de definir o método do HTTP que será usado para enviar os dados – GET ou POST.
+-->
+<form action=”/deixaremos-em-branco” method=”post”>
+  <label> Text: </label>
+  <input type=”text”>
+  <label> Password: </label>
+  <input type=”password”>
+  <label> Textarea: </label>
+  <textarea> </textarea ><br>
+<hr>
+	<!-- Checkbox (Multipla escolha) -->
+	<input type="checkbox" name="opcao" value="selectA" checked>Clique para selecionar o A<br>
+	<input type="checkbox" name="opcao" value="selectB">Clique para selecionar o B
+	<hr>
+	<!-- Radio (apenas uma escolha) -->
+	<input type="radio" name="opcao2" value="selectA" checked>Masculino
+	<input type="radio" name="opcao2" value="selectB">Feminino
+	<hr>
+	<!-- Select: lista organizada no formato drop-down -->
+	<select>
+	  <option value="verde">Verde</option>
+	  <option value="vermelho">Vermelho</option>
+	  <option value="azul">Azul</option>
+	  <option value="alpha">Alpha</option>
+	</select>
+	<hr>
+	<!-- Hidden -->
+	<label>Campo visível</label>
+	<input type="text"><br>
+	<label>Campo invisível</label>
+	<input type="hidden" name="país" value="Brasil">
+  <!-- Button {type}
+  	* Type Submit: envia os dados do formulário à página-destino do atributo actions.
+  	* Type Reset: redefine os valores do formulário ao padrão.
+  	* Type Button: funciona apenas com uso de Javascript.
+	-->
+	<p><button type="reset">Apagar tudo</button>
+		<button type="submit">Cadastrar</button></p>
+</form>
+
+<p>Example of unordered lists:</p>
+
+<ul class="a">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ul>
+
+<ul class="b">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ul>
+
+<p>Example of ordered lists:</p>
+
+<ol class="c">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ol>
+
+<ol class="d">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ol>
+
+</body>
+
+</html>

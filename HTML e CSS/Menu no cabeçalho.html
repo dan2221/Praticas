@@ -1,0 +1,212 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>Teste de Menu</title>
+	<meta charset="utf-8">
+	<style type="text/css">
+		* {
+			margin:0;
+			padding:0;
+		}
+
+		.container-principal {
+			font-family: 'Verdana';
+			color: #777;
+		}
+
+		header {
+			width: 100%;
+			height: 100px;
+			background-color: #fff;
+			position: relative;
+			top: 0;
+		}
+
+		.logo {
+			position: absolute;
+			width: 300px;
+			height: auto;
+		}
+		.logo img {
+			width: 800px;
+			margin-left: 10%;
+		}
+		nav {
+			position: absolute;
+			right: 30px;
+			bottom: 0px;
+		}
+		nav ul li {
+			float: left;
+			color: #fff;
+			width: auto;
+			margin: 0.8em;
+			font-size: 1.5em;
+			font-family: 'Verdana';
+			list-style:none;
+		}
+		nav ul li a {
+			text-decoration: none;
+			color: #bbb;
+		}
+		/*			HOVER: atrubui cor diferente ao passar o mouse. */
+		nav ul li a:hover {color:#b13030;}
+
+		/* Imagem principal */
+		#banner{width: 100%;}
+		#banner img{
+			width: 95%;
+			margin-right: auto;
+			margin-left: auto;
+			display: block;
+			margin-bottom: 0;
+		}
+
+		/* Propriedades dos pop'ups */
+		.modalDialog {
+			position:fixed;
+			font-family: 'Verdana';
+			top: 0;
+			right: 0;
+			bottom: 0;
+			left: 0;
+			background: rgba(181, 9, 9, 0.6);
+			z-index: 9999;
+			opacity: 1;
+			-webkit-transition: opacity 400ms ease-in;
+			-moz-transition: opacity 400ms ease-in;
+			transition: opacity 400ms ease-in;
+			pointer-events: none;
+			display: none; /* block = ativar */
+		}
+
+		.modalDialog:target {
+			display: block;
+			opacity: 1;
+			pointer-events: auto;
+		}
+
+		.modalDialog div {
+			width: 500px;
+			position: relative;
+		/*	MARGIN (top)(right)(bottom)(left)
+			Neste caso 'top' sera 10 por cento e o resto fica automatico. */
+			margin: 10% auto;
+			padding: 5px 20px 13px 20px;
+			-webkit-border-radius: 12px;
+			-moz-border-radius: 12px;
+			border-radius: 10px;
+			background-color: #fff;
+		}
+
+		.modalDialog p {
+			margin-top: 5%;
+			margin-bottom: 5%;
+		}
+
+		.modalDialog img {
+			width: 50%;
+			position: relative;
+			margin-left: 25%;
+		}
+
+		.close {
+			background-color: #606061;
+			color: #FFF;
+			line-height: 25px;
+			position: absolute;
+			right: -2px;
+			text-align: center;
+			top: -1px;
+			width: 30px;
+			text-decoration: none;
+			font-weight: bold;
+			-webkit-border-radius: 12px;
+			-moz-border-radius: 12px;
+			border-radius: 12px;
+		}
+
+		.close:hover {
+			background-color: #b50909;
+		}
+
+		footer {
+			width: 100%;
+			height: 18%;
+			background-color: #b50909;
+			color: #fff;
+			position: relative;
+			float: left;
+			font-family: 'verdana';
+		}
+
+		footer .footer-text{
+			width: 30%;
+			height: 1%;
+			position: relative;
+			float: left;
+		}
+
+		footer .footer-text a{color:#fff;}
+	</style>
+</head>
+
+<body>
+<div class="container-principal">
+	<header>
+		<div class="logo">
+			<a href="index.html"><img src="logo2.png" alt="Logo site"></a>
+		</div>
+		
+		<nav>
+			<ul>
+				<li><a href="#">Página inicial</a></li>
+				<li><a href="#">Sobre</a></li>
+				<li><a href="#">Contato</a></li>
+			</ul>
+		</nav> 
+	</header>
+
+	<section id='banner'>
+		<img src='flores.jpg'>
+	</section>
+</div>
+<p style="font-size:larger;">texto</p>
+<p>texto</p>
+<p>texto</p>
+<p>texto</p>
+<p>texto</p>
+<p>texto</p>
+<p>texto</p>
+<p>texto</p>
+<p>texto</p>
+<p>texto</p>
+<p>texto</p>
+<p>texto</p>
+<p>texto</p>
+<p>texto</p>
+<p>texto</p>
+<p>texto</p>
+<p>texto</p>
+<p>texto</p>
+<p>texto</p>
+<p>texto</p>
+<p>texto</p>
+<p>texto</p>
+<p>texto</p>
+
+<div id="openModal" class="modalDialog">
+	<a href="#close" class="close"><strong>X</strong></a>
+	<h1>tudo sobre HTML5</h1>
+	<p><strong>HTML</strong> (abreviação para a expressão inglesa <i> HyperText Markup Language</i>, que signidica Linguagem de Marcação de Hipertexto) é umas linguagem de marcação utilizada na construção de páginas na web. Documentos HTML podem ser interpretados por navegadores. - <i>wikipedia.com - acesso 09/2016</i></p>
+</div>
+
+<!-- rodape da pagina -->
+<footer>
+	<div class='footer-text'>
+		<h3>Tudo sobre html</h3>
+		<p>Saiba o que é HTML, e como sua empresa pode usufruir de sites dinamicos e funcionais. - <a href="openModal">clique aqui</a></p>
+	</div>
+</footer>
+</body>
+</html>
