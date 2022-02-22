@@ -1,7 +1,7 @@
-// Exercício 3
+// ExercÃ­cio 3
 
-// Calcular e apresentar o valor do volume de uma lata de óleo,
-// utilizando a fórmula: VOLUME = 3.14159 * R^2 * ALTURA.
+// Calcular e apresentar o valor do volume de uma lata de Ã³leo,
+// utilizando a fÃ³rmula: VOLUME = 3.14159 * R^2 * ALTURA.
 
 #include <iostream> // Biblioteca
 
@@ -9,7 +9,7 @@ using namespace std;
 
 int main()
 {
-	// Variáveis da função
+	// VariÃ¡veis
 	float volume, raio, altura;
 	
 	// Limpa a tela
@@ -20,7 +20,7 @@ int main()
 	cout <<"Escreva o raio da lata: ";
 	cin >> raio;
 	
-	// Cálculo
+	// CÃ¡lculo
 	volume = 3.14159 * (raio*raio) * altura;
 	
 	cout << "-------------------------------" << endl;
