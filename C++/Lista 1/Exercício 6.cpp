@@ -1,7 +1,7 @@
-// Exercício 6
+// ExercÃ­cio 6
 
-// Faça um programa que apresente o total da soma obtido dos
-// cem primeiros números inteiros. (1+2+3+4+......+100).
+// FaÃ§a um programa que apresente o total da soma obtido dos
+// cem primeiros nÃºmeros inteiros. (1+2+3+4+......+100).
 
 // Bibliotecas
 #include <iostream>
@@ -11,25 +11,25 @@ using namespace std;
 
 int main()
 {
-	// Inserir caractéres especiais (acentos, símbolos, etc.)
+	// Inserir caractÃ©res especiais (acentos, sÃ­mbolos, etc.)
 	setlocale(LC_ALL, "");
 	
-	// Variáveis da função
+	// VariÃ¡veis
 	int contador, soma;
 	
 	// Limpa a tela
 	system("CLS");
 	
-	// Loop para contar os números
+	// Loop para contar os nÃºmeros
 	for (contador = 0; contador <=100; contador++)
 	{
 		soma += contador;
 		cout << contador << ": " << soma << endl;
 	}
 	
-	// Impressão do resultado
+	// ImpressÃ£o do resultado
 	cout << "---------------------" << endl;
-	cout << "Soma total é " << soma << endl;
+	cout << "Soma total Ã© " << soma << endl;
 	cout << "---------------------" << endl;
 	
 	return 0; //pode ser return 0;
