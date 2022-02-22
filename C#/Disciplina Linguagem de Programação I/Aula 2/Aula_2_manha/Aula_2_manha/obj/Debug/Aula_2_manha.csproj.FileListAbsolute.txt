@@ -1,0 +1,20 @@
+C:\Users\labs\source\repos\Aula_2_manha\Aula_2_manha\bin\Debug\Aula_2_manha.exe.config
+C:\Users\labs\source\repos\Aula_2_manha\Aula_2_manha\bin\Debug\Aula_2_manha.exe
+C:\Users\labs\source\repos\Aula_2_manha\Aula_2_manha\bin\Debug\Aula_2_manha.pdb
+C:\Users\labs\source\repos\Aula_2_manha\Aula_2_manha\obj\Debug\Aula_2_manha.csprojAssemblyReference.cache
+C:\Users\labs\source\repos\Aula_2_manha\Aula_2_manha\obj\Debug\Aula_2_manha.Form2.resources
+C:\Users\labs\source\repos\Aula_2_manha\Aula_2_manha\obj\Debug\Aula_2_manha.Properties.Resources.resources
+C:\Users\labs\source\repos\Aula_2_manha\Aula_2_manha\obj\Debug\Aula_2_manha.csproj.GenerateResource.cache
+C:\Users\labs\source\repos\Aula_2_manha\Aula_2_manha\obj\Debug\Aula_2_manha.csproj.CoreCompileInputs.cache
+C:\Users\labs\source\repos\Aula_2_manha\Aula_2_manha\obj\Debug\Aula_2_manha.exe
+C:\Users\labs\source\repos\Aula_2_manha\Aula_2_manha\obj\Debug\Aula_2_manha.pdb
+C:\Users\labs\Downloads\C#\Disciplina Linguagem de Programação I\Aula_2_manha\Aula_2_manha\bin\Debug\Aula_2_manha.exe.config
+C:\Users\labs\Downloads\C#\Disciplina Linguagem de Programação I\Aula_2_manha\Aula_2_manha\bin\Debug\Aula_2_manha.exe
+C:\Users\labs\Downloads\C#\Disciplina Linguagem de Programação I\Aula_2_manha\Aula_2_manha\bin\Debug\Aula_2_manha.pdb
+C:\Users\labs\Downloads\C#\Disciplina Linguagem de Programação I\Aula_2_manha\Aula_2_manha\obj\Debug\Aula_2_manha.csprojAssemblyReference.cache
+C:\Users\labs\Downloads\C#\Disciplina Linguagem de Programação I\Aula_2_manha\Aula_2_manha\obj\Debug\Aula_2_manha.Form2.resources
+C:\Users\labs\Downloads\C#\Disciplina Linguagem de Programação I\Aula_2_manha\Aula_2_manha\obj\Debug\Aula_2_manha.Properties.Resources.resources
+C:\Users\labs\Downloads\C#\Disciplina Linguagem de Programação I\Aula_2_manha\Aula_2_manha\obj\Debug\Aula_2_manha.csproj.GenerateResource.cache
+C:\Users\labs\Downloads\C#\Disciplina Linguagem de Programação I\Aula_2_manha\Aula_2_manha\obj\Debug\Aula_2_manha.csproj.CoreCompileInputs.cache
+C:\Users\labs\Downloads\C#\Disciplina Linguagem de Programação I\Aula_2_manha\Aula_2_manha\obj\Debug\Aula_2_manha.exe
+C:\Users\labs\Downloads\C#\Disciplina Linguagem de Programação I\Aula_2_manha\Aula_2_manha\obj\Debug\Aula_2_manha.pdb
