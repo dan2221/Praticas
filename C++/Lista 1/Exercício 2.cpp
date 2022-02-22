@@ -1,18 +1,30 @@
-// Exercício 2
+// ExercÃ­cio 2
 
-// Faça um programa que leia uma temperatura em graus Centígrados e apresente-a
-// convertida em graus Fahrenheit. A fórmula de conversão é:
-// F = (9 * C + 160) / 5, onde F é a temperatura em Fahrenheit e C em graus Centígrados.
+// FaÃ§a um programa que leia uma temperatura em graus CentÃ­grados e apresente-a
+// convertida em graus Fahrenheit. A fÃ³rmula de conversÃ£o Ã©:
+// F = (9 * C + 160) / 5, onde F Ã© a temperatura em Fahrenheit e C em graus CentÃ­grados.
 
+// Bibliotecas
 #include <iostream>
 #include<stdlib.h>
 using namespace std; 
+
+
 int main() 
-{ 
- float C,F;  
+{
+ // DefiniÃ§Ã£o de VariÃ¡veis
+ float C,F;
+ 
+ // Print de frase
  cout << "Insira a temperatura em graus celsius:";
- cin>>C; 
- F=(9*C+160)/5; 
+ 
+ // Input
+ cin >> C;
+ 
+ // CÃ¡lculo
+ F = (9 * C + 160) / 5;
+ 
+ // Output do resultado
  cout <<"Fahrenheit=" << F << endl; 
  return 0;
 }
