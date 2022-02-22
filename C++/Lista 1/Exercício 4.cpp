@@ -1,6 +1,6 @@
-// Exercício 4
+// ExercÃ­cio 4
 
-//Faça um programa que leia 5 valores e 
+//FaÃ§a um programa que leia 5 valores e 
 //informe o valor do maior
 
 //Bibliotecas
@@ -10,10 +10,10 @@ using namespace std;
 
 int main()
 {	
-	// Caractéres especiais (acentos, símbolos, etc.)
+	// CaractÃ©res especiais (acentos, sÃ­mbolos, etc.)
 	setlocale(LC_ALL, "");
 	
-	// Variáveis da função
+	// VariÃ¡veis
 	float maior, numero;
 	int contador;
 	
@@ -22,10 +22,10 @@ int main()
 	// Limpa a tela
 	system("CLS");
 	
-	// Loop para contar os números
+	// Loop para contar os nÃºmeros
 	for (contador = 1; contador <=5; contador++)
 	{
-		cout << "Escreva o " << contador << "° valor: ";
+		cout << "Escreva o " << contador << "Â° valor: ";
 		cin >> numero;
 		if (numero > maior)
 		{
