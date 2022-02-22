@@ -1,7 +1,7 @@
-// Exercício 5
+// ExercÃ­cio 5
 
-//Apresentar todos os valores numéricos 
-//inteiros ímpares situados na faixa de 0 a 20
+//Apresentar todos os valores numÃ©ricos 
+//inteiros Ã­mpares situados na faixa de 0 a 20
 
 //Bibliotecas
 #include <iostream>
@@ -10,24 +10,24 @@ using namespace std;
 
 int main()
 {
-	// Caractéres especiais (acentos, símbolos, etc.)
+	// CaractÃ©res especiais (acentos, sÃ­mbolos, etc.)
 	setlocale(LC_ALL, "");
 	
-	// Variáveis da função
+	// VariÃ¡veis
 	float resto;
 	int contador;
 		
 	// Limpa a tela
 	system("CLS");
 	
-	// Loop para contar os números
+	// Loop para contar os nÃºmeros
 	for (contador = 0; contador <=20; contador++)
 	{
 		resto = contador % 2;
 		if (resto !=0)
 		
 		{
-			cout << contador << " é impar! \n";
+			cout << contador << " Ã© impar! \n";
 		}
 	}
 	return 0; //finalizar programa
