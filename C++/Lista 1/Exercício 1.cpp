@@ -1,6 +1,6 @@
-// Exercício 1
+// ExercÃ­cio 1
 
-// Faça um programa que leia dois valores e informe a média entre eles.
+// FaÃ§a um programa que leia dois valores e informe a mÃ©dia entre eles.
 // (use float como tipo de dado). 
 
 #include <iostream> // Biblioteca
@@ -9,7 +9,7 @@ using namespace std;
 
 int main()
 {
-	// Variáveis da função
+	// VariÃ¡veis
 	float v1, v2, m;
 	
 	// Limpa a tela
@@ -20,7 +20,7 @@ int main()
 	cout <<"Valor 2:";
 	cin>>v2;
 	
-	// Cálculo
+	// CÃ¡lculo
 	m=(v1+v2)/2;
 	
 	cout <<"Media=" << m << endl;
