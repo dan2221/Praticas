@@ -1,7 +1,7 @@
-// Exercício 8
+// ExercÃ­cio 8
 
-// Faça um programa que leia 15 valores e informe o
-// valor da diferença entre a média e o maior valor.
+// FaÃ§a um programa que leia 15 valores e informe o
+// valor da diferenÃ§a entre a mÃ©dia e o maior valor.
 
 // Bibliotecas
 #include <iostream>
@@ -10,10 +10,10 @@ using namespace std;
 
 int main()
 {	
-	// Caractéres especiais (acentos, símbolos, etc.)
+	// CaractÃ©res especiais (acentos, sÃ­mbolos, etc.)
 	setlocale(LC_ALL, "");
 	
-	// Variáveis da função
+	// VariÃ¡veis
 	float media, maior, numero, soma;
 	int contador;
 	
@@ -22,10 +22,10 @@ int main()
 	// Limpa a tela
 	system("CLS");
 	
-	// Loop para contar os números
+	// Loop para contar os nÃºmeros
 	for (contador = 1; contador <=15; contador++)
 	{
-		cout << "Escreva o " << contador << "° valor: ";
+		cout << "Escreva o " << contador << "Â° valor: ";
 		cin >> numero;
 		soma += numero;
 		if (numero > maior)
@@ -37,7 +37,7 @@ int main()
 	media = soma / 15;
 	
 	cout << "-------------------------------" << endl;
-	cout << "Média: " << media << endl;
+	cout << "MÃ©dia: " << media << endl;
 	cout << "Maior: " << maior << endl;
 	cout << "-------------------------------" << endl;
 	
