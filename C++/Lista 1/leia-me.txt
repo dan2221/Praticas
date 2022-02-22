@@ -1,0 +1,1 @@
+Esta pasta contém exercícios referentes à disciplina Estruturas de Dados do curso Informática para Negócios.
