@@ -1,0 +1,7 @@
+C:\Users\lab5.LABTEC\source\repos\Console_2_-_Aula_2022-05-03\Console_2_-_Aula_2022-05-03\bin\Debug\Console_2_-_Aula_2022-05-03.exe.config
+C:\Users\lab5.LABTEC\source\repos\Console_2_-_Aula_2022-05-03\Console_2_-_Aula_2022-05-03\bin\Debug\Console_2_-_Aula_2022-05-03.exe
+C:\Users\lab5.LABTEC\source\repos\Console_2_-_Aula_2022-05-03\Console_2_-_Aula_2022-05-03\bin\Debug\Console_2_-_Aula_2022-05-03.pdb
+C:\Users\lab5.LABTEC\source\repos\Console_2_-_Aula_2022-05-03\Console_2_-_Aula_2022-05-03\obj\Debug\Console_2_-_Aula_2022-05-03.csprojAssemblyReference.cache
+C:\Users\lab5.LABTEC\source\repos\Console_2_-_Aula_2022-05-03\Console_2_-_Aula_2022-05-03\obj\Debug\Console_2_-_Aula_2022-05-03.csproj.CoreCompileInputs.cache
+C:\Users\lab5.LABTEC\source\repos\Console_2_-_Aula_2022-05-03\Console_2_-_Aula_2022-05-03\obj\Debug\Console_2_-_Aula_2022-05-03.exe
+C:\Users\lab5.LABTEC\source\repos\Console_2_-_Aula_2022-05-03\Console_2_-_Aula_2022-05-03\obj\Debug\Console_2_-_Aula_2022-05-03.pdb

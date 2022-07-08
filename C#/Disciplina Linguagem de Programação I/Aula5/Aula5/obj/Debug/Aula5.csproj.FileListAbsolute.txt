@@ -1,0 +1,11 @@
+C:\Users\lab5.LABTEC\source\repos\Aula5\Aula5\bin\Debug\Aula5.exe.config
+C:\Users\lab5.LABTEC\source\repos\Aula5\Aula5\bin\Debug\Aula5.exe
+C:\Users\lab5.LABTEC\source\repos\Aula5\Aula5\bin\Debug\Aula5.pdb
+C:\Users\lab5.LABTEC\source\repos\Aula5\Aula5\obj\Debug\Aula5.csprojAssemblyReference.cache
+C:\Users\lab5.LABTEC\source\repos\Aula5\Aula5\obj\Debug\Aula5.Form1.resources
+C:\Users\lab5.LABTEC\source\repos\Aula5\Aula5\obj\Debug\Aula5.Properties.Resources.resources
+C:\Users\lab5.LABTEC\source\repos\Aula5\Aula5\obj\Debug\Aula5.csproj.GenerateResource.cache
+C:\Users\lab5.LABTEC\source\repos\Aula5\Aula5\obj\Debug\Aula5.csproj.CoreCompileInputs.cache
+C:\Users\lab5.LABTEC\source\repos\Aula5\Aula5\obj\Debug\Aula5.exe
+C:\Users\lab5.LABTEC\source\repos\Aula5\Aula5\obj\Debug\Aula5.pdb
+C:\Users\lab5.LABTEC\source\repos\Aula5\Aula5\obj\Debug\Aula5.Form2.resources

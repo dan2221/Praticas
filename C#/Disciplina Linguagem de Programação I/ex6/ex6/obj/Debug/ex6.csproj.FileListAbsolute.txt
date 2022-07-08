@@ -1,0 +1,10 @@
+C:\Users\lab5.LABTEC\source\repos\ex6\ex6\bin\Debug\ex6.exe.config
+C:\Users\lab5.LABTEC\source\repos\ex6\ex6\bin\Debug\ex6.exe
+C:\Users\lab5.LABTEC\source\repos\ex6\ex6\bin\Debug\ex6.pdb
+C:\Users\lab5.LABTEC\source\repos\ex6\ex6\obj\Debug\ex6.csprojAssemblyReference.cache
+C:\Users\lab5.LABTEC\source\repos\ex6\ex6\obj\Debug\ex6.Properties.Resources.resources
+C:\Users\lab5.LABTEC\source\repos\ex6\ex6\obj\Debug\ex6.csproj.GenerateResource.cache
+C:\Users\lab5.LABTEC\source\repos\ex6\ex6\obj\Debug\ex6.csproj.CoreCompileInputs.cache
+C:\Users\lab5.LABTEC\source\repos\ex6\ex6\obj\Debug\ex6.exe
+C:\Users\lab5.LABTEC\source\repos\ex6\ex6\obj\Debug\ex6.pdb
+C:\Users\lab5.LABTEC\source\repos\ex6\ex6\obj\Debug\ex6.Form1.resources

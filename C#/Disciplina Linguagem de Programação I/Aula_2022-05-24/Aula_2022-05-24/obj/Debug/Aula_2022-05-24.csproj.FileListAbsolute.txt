@@ -1,0 +1,10 @@
+C:\Users\lab5.LABTEC\source\repos\Aula_2022-05-24\Aula_2022-05-24\bin\Debug\Aula_2022-05-24.exe.config
+C:\Users\lab5.LABTEC\source\repos\Aula_2022-05-24\Aula_2022-05-24\bin\Debug\Aula_2022-05-24.exe
+C:\Users\lab5.LABTEC\source\repos\Aula_2022-05-24\Aula_2022-05-24\bin\Debug\Aula_2022-05-24.pdb
+C:\Users\lab5.LABTEC\source\repos\Aula_2022-05-24\Aula_2022-05-24\obj\Debug\Aula_2022-05-24.csprojAssemblyReference.cache
+C:\Users\lab5.LABTEC\source\repos\Aula_2022-05-24\Aula_2022-05-24\obj\Debug\Aula_2022_05_24.Form1.resources
+C:\Users\lab5.LABTEC\source\repos\Aula_2022-05-24\Aula_2022-05-24\obj\Debug\Aula_2022_05_24.Properties.Resources.resources
+C:\Users\lab5.LABTEC\source\repos\Aula_2022-05-24\Aula_2022-05-24\obj\Debug\Aula_2022-05-24.csproj.GenerateResource.cache
+C:\Users\lab5.LABTEC\source\repos\Aula_2022-05-24\Aula_2022-05-24\obj\Debug\Aula_2022-05-24.csproj.CoreCompileInputs.cache
+C:\Users\lab5.LABTEC\source\repos\Aula_2022-05-24\Aula_2022-05-24\obj\Debug\Aula_2022-05-24.exe
+C:\Users\lab5.LABTEC\source\repos\Aula_2022-05-24\Aula_2022-05-24\obj\Debug\Aula_2022-05-24.pdb

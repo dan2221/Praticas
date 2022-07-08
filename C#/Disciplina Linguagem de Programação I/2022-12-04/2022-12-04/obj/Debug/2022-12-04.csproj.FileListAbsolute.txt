@@ -1,0 +1,10 @@
+C:\Users\lab5.LABTEC\source\repos\2022-12-04\2022-12-04\bin\Debug\2022-12-04.exe.config
+C:\Users\lab5.LABTEC\source\repos\2022-12-04\2022-12-04\bin\Debug\2022-12-04.exe
+C:\Users\lab5.LABTEC\source\repos\2022-12-04\2022-12-04\bin\Debug\2022-12-04.pdb
+C:\Users\lab5.LABTEC\source\repos\2022-12-04\2022-12-04\obj\Debug\2022-12-04.csprojAssemblyReference.cache
+C:\Users\lab5.LABTEC\source\repos\2022-12-04\2022-12-04\obj\Debug\_2022_12_04.Form1.resources
+C:\Users\lab5.LABTEC\source\repos\2022-12-04\2022-12-04\obj\Debug\_2022_12_04.Properties.Resources.resources
+C:\Users\lab5.LABTEC\source\repos\2022-12-04\2022-12-04\obj\Debug\2022-12-04.csproj.GenerateResource.cache
+C:\Users\lab5.LABTEC\source\repos\2022-12-04\2022-12-04\obj\Debug\2022-12-04.csproj.CoreCompileInputs.cache
+C:\Users\lab5.LABTEC\source\repos\2022-12-04\2022-12-04\obj\Debug\2022-12-04.exe
+C:\Users\lab5.LABTEC\source\repos\2022-12-04\2022-12-04\obj\Debug\2022-12-04.pdb

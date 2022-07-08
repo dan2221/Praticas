@@ -1,0 +1,7 @@
+C:\Users\lab5.LABTEC\source\repos\ConsoleApp 2022_04_26\ConsoleApp 2022_04_26\bin\Debug\ConsoleApp 2022_04_26.exe.config
+C:\Users\lab5.LABTEC\source\repos\ConsoleApp 2022_04_26\ConsoleApp 2022_04_26\bin\Debug\ConsoleApp 2022_04_26.exe
+C:\Users\lab5.LABTEC\source\repos\ConsoleApp 2022_04_26\ConsoleApp 2022_04_26\bin\Debug\ConsoleApp 2022_04_26.pdb
+C:\Users\lab5.LABTEC\source\repos\ConsoleApp 2022_04_26\ConsoleApp 2022_04_26\obj\Debug\ConsoleApp 2022_04_26.csprojAssemblyReference.cache
+C:\Users\lab5.LABTEC\source\repos\ConsoleApp 2022_04_26\ConsoleApp 2022_04_26\obj\Debug\ConsoleApp 2022_04_26.csproj.CoreCompileInputs.cache
+C:\Users\lab5.LABTEC\source\repos\ConsoleApp 2022_04_26\ConsoleApp 2022_04_26\obj\Debug\ConsoleApp 2022_04_26.exe
+C:\Users\lab5.LABTEC\source\repos\ConsoleApp 2022_04_26\ConsoleApp 2022_04_26\obj\Debug\ConsoleApp 2022_04_26.pdb

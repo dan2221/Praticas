@@ -1,0 +1,6 @@
+C:\Users\lab5.LABTEC\source\repos\Exercicio2 - Console\Exercicio2 - Console\bin\Debug\Exercicio2 - Console.exe.config
+C:\Users\lab5.LABTEC\source\repos\Exercicio2 - Console\Exercicio2 - Console\bin\Debug\Exercicio2 - Console.exe
+C:\Users\lab5.LABTEC\source\repos\Exercicio2 - Console\Exercicio2 - Console\bin\Debug\Exercicio2 - Console.pdb
+C:\Users\lab5.LABTEC\source\repos\Exercicio2 - Console\Exercicio2 - Console\obj\Debug\Exercicio2 - Console.csproj.CoreCompileInputs.cache
+C:\Users\lab5.LABTEC\source\repos\Exercicio2 - Console\Exercicio2 - Console\obj\Debug\Exercicio2 - Console.exe
+C:\Users\lab5.LABTEC\source\repos\Exercicio2 - Console\Exercicio2 - Console\obj\Debug\Exercicio2 - Console.pdb
