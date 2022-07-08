@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Lima"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2020-09-03 06:35:21 "/>
+        <attribute name="created" value="TGltYTtMSU1BLVBDOzIwMjAtMDktMDM7IjA2OjE4OjIzICI7MjA2MQ=="/>
+        <attribute name="edited" value="TGltYTtMSU1BLVBDOzIwMjAtMDktMDM7IjA2OjM1OjIxICI7MzsyMTY4"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Nota1, Nota2, Nota3, Nota4, Media" type="Real" array="False" size=""/>
+            <input variable="Nota1"/>
+            <input variable="Nota2"/>
+            <input variable="Nota3"/>
+            <input variable="Nota4"/>
+            <assign variable="Media" expression="(Nota1+Nota2+Nota3+Nota4)/4"/>
+            <output expression="Nota1" newline="True"/>
+            <output expression="Nota2" newline="True"/>
+            <output expression="Nota3" newline="True"/>
+            <output expression="Nota4" newline="True"/>
+            <output expression="Media" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
