@@ -1,0 +1,10 @@
+C:\Users\labs\Documents\Aula04_alterar_cadastro\Aula04_alterar_cadastro\bin\Debug\Aula04_alterar_cadastro.exe.config
+C:\Users\labs\Documents\Aula04_alterar_cadastro\Aula04_alterar_cadastro\bin\Debug\Aula04_alterar_cadastro.exe
+C:\Users\labs\Documents\Aula04_alterar_cadastro\Aula04_alterar_cadastro\bin\Debug\Aula04_alterar_cadastro.pdb
+C:\Users\labs\Documents\Aula04_alterar_cadastro\Aula04_alterar_cadastro\obj\Debug\Aula04_alterar_cadastro.csprojAssemblyReference.cache
+C:\Users\labs\Documents\Aula04_alterar_cadastro\Aula04_alterar_cadastro\obj\Debug\Aula04_alterar_cadastro.Form1.resources
+C:\Users\labs\Documents\Aula04_alterar_cadastro\Aula04_alterar_cadastro\obj\Debug\Aula04_alterar_cadastro.Properties.Resources.resources
+C:\Users\labs\Documents\Aula04_alterar_cadastro\Aula04_alterar_cadastro\obj\Debug\Aula04_alterar_cadastro.csproj.GenerateResource.cache
+C:\Users\labs\Documents\Aula04_alterar_cadastro\Aula04_alterar_cadastro\obj\Debug\Aula04_alterar_cadastro.csproj.CoreCompileInputs.cache
+C:\Users\labs\Documents\Aula04_alterar_cadastro\Aula04_alterar_cadastro\obj\Debug\Aula04_alterar_cadastro.exe
+C:\Users\labs\Documents\Aula04_alterar_cadastro\Aula04_alterar_cadastro\obj\Debug\Aula04_alterar_cadastro.pdb

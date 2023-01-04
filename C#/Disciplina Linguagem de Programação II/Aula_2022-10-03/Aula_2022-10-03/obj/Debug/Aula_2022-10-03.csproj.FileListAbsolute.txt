@@ -1,0 +1,10 @@
+C:\Users\labs\Documents\Aula_2022-10-03\Aula_2022-10-03\bin\Debug\Aula_2022-10-03.exe.config
+C:\Users\labs\Documents\Aula_2022-10-03\Aula_2022-10-03\bin\Debug\Aula_2022-10-03.exe
+C:\Users\labs\Documents\Aula_2022-10-03\Aula_2022-10-03\bin\Debug\Aula_2022-10-03.pdb
+C:\Users\labs\Documents\Aula_2022-10-03\Aula_2022-10-03\obj\Debug\Aula_2022-10-03.csprojAssemblyReference.cache
+C:\Users\labs\Documents\Aula_2022-10-03\Aula_2022-10-03\obj\Debug\Aula_2022_10_03.Form1.resources
+C:\Users\labs\Documents\Aula_2022-10-03\Aula_2022-10-03\obj\Debug\Aula_2022_10_03.Properties.Resources.resources
+C:\Users\labs\Documents\Aula_2022-10-03\Aula_2022-10-03\obj\Debug\Aula_2022-10-03.csproj.GenerateResource.cache
+C:\Users\labs\Documents\Aula_2022-10-03\Aula_2022-10-03\obj\Debug\Aula_2022-10-03.csproj.CoreCompileInputs.cache
+C:\Users\labs\Documents\Aula_2022-10-03\Aula_2022-10-03\obj\Debug\Aula_2022-10-03.exe
+C:\Users\labs\Documents\Aula_2022-10-03\Aula_2022-10-03\obj\Debug\Aula_2022-10-03.pdb
