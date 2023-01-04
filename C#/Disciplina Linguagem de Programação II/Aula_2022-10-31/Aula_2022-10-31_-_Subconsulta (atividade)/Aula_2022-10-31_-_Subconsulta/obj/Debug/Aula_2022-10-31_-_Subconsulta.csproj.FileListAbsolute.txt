@@ -1,0 +1,20 @@
+C:\Users\labs\Documents\Aula_2022-10-31_-_Subconsulta\Aula_2022-10-31_-_Subconsulta\bin\Debug\Aula_2022-10-31_-_Subconsulta.exe.config
+C:\Users\labs\Documents\Aula_2022-10-31_-_Subconsulta\Aula_2022-10-31_-_Subconsulta\bin\Debug\Aula_2022-10-31_-_Subconsulta.exe
+C:\Users\labs\Documents\Aula_2022-10-31_-_Subconsulta\Aula_2022-10-31_-_Subconsulta\bin\Debug\Aula_2022-10-31_-_Subconsulta.pdb
+C:\Users\labs\Documents\Aula_2022-10-31_-_Subconsulta\Aula_2022-10-31_-_Subconsulta\obj\Debug\Aula_2022-10-31_-_Subconsulta.csprojAssemblyReference.cache
+C:\Users\labs\Documents\Aula_2022-10-31_-_Subconsulta\Aula_2022-10-31_-_Subconsulta\obj\Debug\Aula_2022_10_31___Subconsulta.Form1.resources
+C:\Users\labs\Documents\Aula_2022-10-31_-_Subconsulta\Aula_2022-10-31_-_Subconsulta\obj\Debug\Aula_2022_10_31___Subconsulta.Properties.Resources.resources
+C:\Users\labs\Documents\Aula_2022-10-31_-_Subconsulta\Aula_2022-10-31_-_Subconsulta\obj\Debug\Aula_2022-10-31_-_Subconsulta.csproj.GenerateResource.cache
+C:\Users\labs\Documents\Aula_2022-10-31_-_Subconsulta\Aula_2022-10-31_-_Subconsulta\obj\Debug\Aula_2022-10-31_-_Subconsulta.csproj.CoreCompileInputs.cache
+C:\Users\labs\Documents\Aula_2022-10-31_-_Subconsulta\Aula_2022-10-31_-_Subconsulta\obj\Debug\Aula_2022-10-31_-_Subconsulta.exe
+C:\Users\labs\Documents\Aula_2022-10-31_-_Subconsulta\Aula_2022-10-31_-_Subconsulta\obj\Debug\Aula_2022-10-31_-_Subconsulta.pdb
+C:\Users\labs\Documents\Aula_2022-10-31_-_Subconsulta (atividade)\Aula_2022-10-31_-_Subconsulta\bin\Debug\Aula_2022-10-31_-_Subconsulta.exe.config
+C:\Users\labs\Documents\Aula_2022-10-31_-_Subconsulta (atividade)\Aula_2022-10-31_-_Subconsulta\bin\Debug\Aula_2022-10-31_-_Subconsulta.exe
+C:\Users\labs\Documents\Aula_2022-10-31_-_Subconsulta (atividade)\Aula_2022-10-31_-_Subconsulta\bin\Debug\Aula_2022-10-31_-_Subconsulta.pdb
+C:\Users\labs\Documents\Aula_2022-10-31_-_Subconsulta (atividade)\Aula_2022-10-31_-_Subconsulta\obj\Debug\Aula_2022-10-31_-_Subconsulta.csprojAssemblyReference.cache
+C:\Users\labs\Documents\Aula_2022-10-31_-_Subconsulta (atividade)\Aula_2022-10-31_-_Subconsulta\obj\Debug\Aula_2022_10_31___Subconsulta.Form1.resources
+C:\Users\labs\Documents\Aula_2022-10-31_-_Subconsulta (atividade)\Aula_2022-10-31_-_Subconsulta\obj\Debug\Aula_2022_10_31___Subconsulta.Properties.Resources.resources
+C:\Users\labs\Documents\Aula_2022-10-31_-_Subconsulta (atividade)\Aula_2022-10-31_-_Subconsulta\obj\Debug\Aula_2022-10-31_-_Subconsulta.csproj.GenerateResource.cache
+C:\Users\labs\Documents\Aula_2022-10-31_-_Subconsulta (atividade)\Aula_2022-10-31_-_Subconsulta\obj\Debug\Aula_2022-10-31_-_Subconsulta.csproj.CoreCompileInputs.cache
+C:\Users\labs\Documents\Aula_2022-10-31_-_Subconsulta (atividade)\Aula_2022-10-31_-_Subconsulta\obj\Debug\Aula_2022-10-31_-_Subconsulta.exe
+C:\Users\labs\Documents\Aula_2022-10-31_-_Subconsulta (atividade)\Aula_2022-10-31_-_Subconsulta\obj\Debug\Aula_2022-10-31_-_Subconsulta.pdb
