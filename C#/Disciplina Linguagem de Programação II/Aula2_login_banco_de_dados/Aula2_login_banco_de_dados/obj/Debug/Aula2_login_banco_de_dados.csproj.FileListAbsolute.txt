@@ -1,0 +1,11 @@
+C:\Users\labs\Documents\Aula2_login_banco_de_dados\Aula2_login_banco_de_dados\bin\Debug\Aula2_login_banco_de_dados.exe.config
+C:\Users\labs\Documents\Aula2_login_banco_de_dados\Aula2_login_banco_de_dados\bin\Debug\Aula2_login_banco_de_dados.exe
+C:\Users\labs\Documents\Aula2_login_banco_de_dados\Aula2_login_banco_de_dados\bin\Debug\Aula2_login_banco_de_dados.pdb
+C:\Users\labs\Documents\Aula2_login_banco_de_dados\Aula2_login_banco_de_dados\obj\Debug\Aula2_login_banco_de_dados.csprojAssemblyReference.cache
+C:\Users\labs\Documents\Aula2_login_banco_de_dados\Aula2_login_banco_de_dados\obj\Debug\Aula2_login_banco_de_dados.Form1.resources
+C:\Users\labs\Documents\Aula2_login_banco_de_dados\Aula2_login_banco_de_dados\obj\Debug\Aula2_login_banco_de_dados.Properties.Resources.resources
+C:\Users\labs\Documents\Aula2_login_banco_de_dados\Aula2_login_banco_de_dados\obj\Debug\Aula2_login_banco_de_dados.csproj.GenerateResource.cache
+C:\Users\labs\Documents\Aula2_login_banco_de_dados\Aula2_login_banco_de_dados\obj\Debug\Aula2_login_banco_de_dados.csproj.CoreCompileInputs.cache
+C:\Users\labs\Documents\Aula2_login_banco_de_dados\Aula2_login_banco_de_dados\obj\Debug\Aula2_login_banco_de_dados.exe
+C:\Users\labs\Documents\Aula2_login_banco_de_dados\Aula2_login_banco_de_dados\obj\Debug\Aula2_login_banco_de_dados.pdb
+C:\Users\labs\Documents\Aula2_login_banco_de_dados\Aula2_login_banco_de_dados\obj\Debug\Aula2_login_banco_de_dados.Form2.resources

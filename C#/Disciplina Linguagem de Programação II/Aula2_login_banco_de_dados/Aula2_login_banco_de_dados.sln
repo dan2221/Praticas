@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.916
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula2_login_banco_de_dados", "Aula2_login_banco_de_dados\Aula2_login_banco_de_dados.csproj", "{CCFE8A33-1028-43B8-8694-D71EB6558F3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCFE8A33-1028-43B8-8694-D71EB6558F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCFE8A33-1028-43B8-8694-D71EB6558F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCFE8A33-1028-43B8-8694-D71EB6558F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCFE8A33-1028-43B8-8694-D71EB6558F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D25276E7-90D0-44CC-BCEC-807F767BCF4A}
+	EndGlobalSection
+EndGlobal

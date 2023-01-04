@@ -1,0 +1,10 @@
+C:\Users\labs\Documents\Aula01-LocadoraNoite\Aula01-LocadoraNoite\bin\Debug\Aula01-LocadoraNoite.exe.config
+C:\Users\labs\Documents\Aula01-LocadoraNoite\Aula01-LocadoraNoite\bin\Debug\Aula01-LocadoraNoite.exe
+C:\Users\labs\Documents\Aula01-LocadoraNoite\Aula01-LocadoraNoite\bin\Debug\Aula01-LocadoraNoite.pdb
+C:\Users\labs\Documents\Aula01-LocadoraNoite\Aula01-LocadoraNoite\obj\Debug\Aula01-LocadoraNoite.csprojAssemblyReference.cache
+C:\Users\labs\Documents\Aula01-LocadoraNoite\Aula01-LocadoraNoite\obj\Debug\Aula01_LocadoraNoite.Form1.resources
+C:\Users\labs\Documents\Aula01-LocadoraNoite\Aula01-LocadoraNoite\obj\Debug\Aula01_LocadoraNoite.Properties.Resources.resources
+C:\Users\labs\Documents\Aula01-LocadoraNoite\Aula01-LocadoraNoite\obj\Debug\Aula01-LocadoraNoite.csproj.GenerateResource.cache
+C:\Users\labs\Documents\Aula01-LocadoraNoite\Aula01-LocadoraNoite\obj\Debug\Aula01-LocadoraNoite.csproj.CoreCompileInputs.cache
+C:\Users\labs\Documents\Aula01-LocadoraNoite\Aula01-LocadoraNoite\obj\Debug\Aula01-LocadoraNoite.exe
+C:\Users\labs\Documents\Aula01-LocadoraNoite\Aula01-LocadoraNoite\obj\Debug\Aula01-LocadoraNoite.pdb
